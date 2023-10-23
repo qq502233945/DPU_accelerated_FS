@@ -1,4 +1,4 @@
-# <img src="Images/xmu-zi-luxun.svg" align = "left" width="120" /> <img src="Images/实验室logo.svg" align = "left" width="40" /> DPU_accelerated_FS
+# <img src="Images/xmu_logo.svg" align = "left" width="120" /> <img src="Images/lab_logo.svg" align = "left" width="40" /> DPU_accelerated_FS
 
 
 
